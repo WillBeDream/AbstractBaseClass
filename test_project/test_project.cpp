@@ -71,7 +71,7 @@ class Helicopter : public FlyerVehicle
 public:
     void move()
     {
-        cout << "самолет летит";
+        cout << "Вертолет летит";
     }
 };
 
